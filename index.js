@@ -1,4 +1,4 @@
-const { Client, MessageEmbed }= require("/app/discord.js");
+const { Client, MessageEmbed }= require("discord.js");
 const client = new Client();
 var prefix = "/";
 
