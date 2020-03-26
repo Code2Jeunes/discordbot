@@ -1,7 +1,7 @@
 
 {
   "requires": true,
-  "lockfileVersion": 1,
+  "lockfileVersion": 0,
   "dependencies": {
     "@discordjs/collection": {
       "version": "0.1.5",
